@@ -1,0 +1,67 @@
+.body {
+  font-size: 15px;
+}
+
+.container {
+  font-family: 'Poppins', sans-serif;
+  color: hsl(229, 6%, 66%);
+  background-color: hsl(0, 0%, 98%);
+}
+
+.title {
+  text-align: center;
+}
+
+.title-heading {
+  font-weight: 200;
+}
+
+.sub-heading {
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+}
+
+.card {
+  width: 20rem;
+  height: 15rem;
+  margin: auto;
+  border-top-width: thick;
+  box-shadow: 2px 12px 6px 12px hsl(0, 0%, 95%);
+}
+
+.card-title {
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+}
+
+.card-text {
+  color: hsl(229, 6%, 66%);
+  font-weight: 400;
+}
+
+.card-supervisor {
+  border-top-color: hsl(180, 62%, 55%);
+}
+
+.card-tb {
+  border-top-color: hsl(0, 78%, 62%);
+}
+
+.card-karma {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top-color: hsl(34, 97%, 64%);
+}
+
+.card-cal {
+  border-top-color: hsl(212, 86%, 64%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
